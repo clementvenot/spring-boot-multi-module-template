@@ -76,6 +76,7 @@
         </dependency>
     </dependencies>
 
+
     <!-- Build configuration -->
     <build>
         <plugins>
