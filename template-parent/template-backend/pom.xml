@@ -35,14 +35,12 @@
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
 
-        <!-- Shared DTO module (currently commented out) -->
-        <!--
+        <!-- Shared DTO module -->
         <dependency>
             <groupId>com.template</groupId>
             <artifactId>dto</artifactId>
             <version>${project.version}</version>
         </dependency>
-        -->
 
         <!-- H2 Database: In-memory database for development and testing -->
         <dependency>
