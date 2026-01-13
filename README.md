@@ -48,7 +48,7 @@ Each module can be kept, modified, or removed depending on project needs.
 
 ```bash
 # 1. Clone the template
-git clone https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git
+git clone https://github.com/clementvenot/spring-boot-multi-module-template.git
 cd template-parent
 
 # 2. Detach the template to start a new project
